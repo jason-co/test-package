@@ -9,6 +9,6 @@
         <description>My package description.</description>
     </metadata>
     <files>
-        <file src="TestPackageLibrary\bin\Release\TestPackageLibrary.dll" target="lib\TestPackageLibrary.dll" />
+        <file src="bin\$configuration$\TestPackageLibrary.dll" target="lib\TestPackageLibrary.dll" />
     </files>
 </package>
